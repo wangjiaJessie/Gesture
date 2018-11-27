@@ -12,6 +12,7 @@
 		C6D0F1C1219279A0005D83FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6D0F1BF219279A0005D83FC /* Main.storyboard */; };
 		C6D0F1C3219279A1005D83FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6D0F1C2219279A1005D83FC /* Assets.xcassets */; };
 		C6D0F1C6219279A1005D83FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6D0F1C4219279A1005D83FC /* LaunchScreen.storyboard */; };
+		C6D0F1CE219279C3005D83FC /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D0F1CD219279C3005D83FC /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C6D0F1C2219279A1005D83FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C6D0F1C5219279A1005D83FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6D0F1C7219279A1005D83FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6D0F1CD219279C3005D83FC /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C6D0F1BB219279A0005D83FC /* AppDelegate.swift */,
 				C6D0F1BD219279A0005D83FC /* ViewController.swift */,
 				C6D0F1BF219279A0005D83FC /* Main.storyboard */,
+				C6D0F1CD219279C3005D83FC /* CircleView.swift */,
 				C6D0F1C2219279A1005D83FC /* Assets.xcassets */,
 				C6D0F1C4219279A1005D83FC /* LaunchScreen.storyboard */,
 				C6D0F1C7219279A1005D83FC /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6D0F1CE219279C3005D83FC /* CircleView.swift in Sources */,
 				C6D0F1BE219279A0005D83FC /* ViewController.swift in Sources */,
 				C6D0F1BC219279A0005D83FC /* AppDelegate.swift in Sources */,
 			);
